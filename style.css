@@ -1,0 +1,211 @@
+div {
+    height: 200px;
+    width: 100%;
+    position: absolute;
+}
+#white {
+    height: 600px;
+    width: 900px;
+    position: relative;
+    border: 5px solid black;
+}
+
+#saffron {
+    background-color: #d16c47;
+}
+
+#green {
+    background-color: #155636;
+    top: 400px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+#chakra {
+    background-color: #2c2c6d;
+    height: 185px;
+    width: 185px;
+    top: 207.5px;
+    left: 350px;
+}
+
+img {
+    height: 85%;
+    width: 85%;
+    position: absolute;
+    z-index: +1;
+    top: 7.5%;
+    left: 7.5%;
+}
+
+.spoke {
+    height: 40%;
+    width: 40%;
+    position: absolute;
+    z-index: +1;
+    background-color: #2c2c6d;
+    clip-path: polygon(50% 0%, 54% 69%, 50% 100%, 46% 69%);
+    transform: rotate(0deg);
+}
+
+#s1 {
+    top: 5%;
+    left: 30%;
+    transform: rotate(0deg);
+}
+
+#s2 {
+    top: 6%;
+    left: 38%;
+    transform: rotate(20deg);
+}
+
+#s3 {
+    top: 7%;
+    left: 45%;
+    transform: rotate(37deg);
+}
+
+#s4 {
+    top: 12%;
+    left: 50%;
+    transform: rotate(51deg);
+}
+
+#s5 {
+    top: 17%;
+    left: 54%;
+    transform: rotate(65deg);
+}
+
+#s6 {
+    top: 24%;
+    left: 55%;
+    transform: rotate(81deg);
+}
+
+#s7 {
+    top: 31%;
+    left: 56%;
+    transform: rotate(94deg);
+}
+
+#s8 {
+    top: 38%;
+    left: 56%;
+    transform: rotate(107deg);
+}
+
+#s9 {
+    top: 44%;
+    left: 53%;
+    transform: rotate(120deg);
+}
+
+#s10 {
+    top: 49%;
+    left: 48%;
+    transform: rotate(134deg);
+}
+
+#s11 {
+    top: 53%;
+    left: 42%;
+    transform: rotate(150deg);
+}
+
+#s12 {
+    top: 55%;
+    left: 36%;
+    transform: rotate(163deg);
+}
+
+#s13 {
+    top: 56%;
+    left: 29%;
+    transform: rotate(180deg);
+}
+
+#s14 {
+    top: 55%;
+    left: 23%;
+    transform: rotate(194deg);
+}
+
+#s15 {
+    top: 52%;
+    left: 17%;
+    transform: rotate(210deg);
+}
+
+#s16 {
+    top: 50%;
+    left: 10%;
+    transform: rotate(224deg);
+}
+
+#s17 {
+    top: 45%;
+    left: 6%;
+    transform: rotate(240deg);
+}
+
+#s18 {
+    top: 38%;
+    left: 4%;
+    transform: rotate(255deg);
+}
+
+#s19 {
+    top: 31%;
+    left: 3%;
+    transform: rotate(269deg);
+}
+
+#s20 {
+    top: 24%;
+    left: 2%;
+    transform: rotate(283deg);
+}
+
+#s21 {
+    top: 17%;
+    left: 5%;
+    transform: rotate(298deg);
+}
+
+#s22 {
+    top: 11%;
+    left: 10%;
+    transform: rotate(316deg);
+}
+
+#s23 {
+    top: 7%;
+    left: 15%;
+    transform: rotate(328deg);
+}
+
+#s24 {
+    top: 5%;
+    left: 22%;
+    transform: rotate(342deg);
+}
+
+#circlebg {
+    background-color: white;
+    height: 85%;
+    width: 85%;
+    top: 7.5%;
+    left: 7.5%;
+}
+
+#chakra div div {
+    background-color: #2c2c6d;
+    height: 20%;
+    width: 20%;
+    top: 40%;
+    left: 40%;
+}
+
